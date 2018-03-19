@@ -1,3 +1,7 @@
+# Intermediary output from processes
+*.csv
+*.txt
+
 # Audacity Project files
 *.aup
 
