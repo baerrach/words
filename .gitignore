@@ -1,3 +1,9 @@
+# Audacity Project files
+*.aup
+
+# Libre Office temp files
+.~*#
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
